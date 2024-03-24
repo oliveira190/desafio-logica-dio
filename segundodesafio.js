@@ -1,5 +1,5 @@
-let vitorias = document.getElementById("vitorias")
-let derrotas 
+let vitorias = 48
+let derrotas = 20
 let resultado = vitorias - derrotas
 let nivel
 function saldoVitorias(resultado) {
