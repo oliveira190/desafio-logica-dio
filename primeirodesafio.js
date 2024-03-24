@@ -1,6 +1,6 @@
 let nome = "Lucas"  
-let xp = []
-let patente = []
+let xp = 
+let patente = 
 
 if(xp<=1000){
     patente= "Ferro"
